@@ -193,7 +193,6 @@ input[type="text"]:focus {
 }
 
 .content__details {
-  width: 399px;
   height: 100%;
   display: flex;
   flex-direction: column;
